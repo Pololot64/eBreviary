@@ -10,3 +10,6 @@ You will need an internet connection.
 
 Files are sourced from iBreviary. Please donate to them if you find this useful:
 https://www.ibreviary.org/en/ibreviary/help-us.html
+
+
+<img src="Screenshot 2023-07-13 221035.png" alt="isolated" width="500"/>
