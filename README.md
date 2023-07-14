@@ -9,7 +9,7 @@ I made this in a few hours so it may or may not work. Hopefully it is useful. :)
 You will need an internet connection.
 
 Files are sourced from iBreviary. Please donate to them if you find this useful:
-https://www.ibreviary.org/en/ibreviary/help-us.html
+[Donate to iBreviary](https://www.ibreviary.org/en/ibreviary/help-us.html)
 
 
 <img src="ebreviary_screenshot.png" alt="Screenshot" width="200"/>
