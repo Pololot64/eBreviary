@@ -1,7 +1,7 @@
 <img src="ebreviary_icon.png" alt="Icon" width="200"/>
 
 # eBreviary
-Just a simple app to get the breviary on your eReader (Kobo or Kindle)
+Just a simple app for Windows to get the breviary on your eReader (Kobo or Kindle)
 
 
 I made this in a few hours so it may or may not work. Hopefully it is useful. :)
