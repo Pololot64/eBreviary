@@ -12,4 +12,4 @@ Files are sourced from iBreviary. Please donate to them if you find this useful:
 https://www.ibreviary.org/en/ibreviary/help-us.html
 
 
-<img src="ebreviary_screenshot.png" alt="Screenshot" width="500"/>
+<img src="ebreviary_screenshot.png" alt="Screenshot" width="200"/>
