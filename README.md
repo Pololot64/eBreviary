@@ -1,4 +1,4 @@
-<img src="crossimg.png" alt="isolated" width="200"/>
+<img src="ebreviary_icon.png" alt="isolated" width="200"/>
 
 # eBreviary
 Just a simple app to get the breviary on your eReader (Kobo or Kindle)
@@ -12,4 +12,4 @@ Files are sourced from iBreviary. Please donate to them if you find this useful:
 https://www.ibreviary.org/en/ibreviary/help-us.html
 
 
-<img src="Screenshot 2023-07-13 221035.png" alt="isolated" width="500"/>
+<img src=ebreviary_screenshot.png" alt="isolated" width="500"/>
